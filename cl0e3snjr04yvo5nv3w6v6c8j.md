@@ -1,5 +1,7 @@
 ## The authenticity of host can't be established
 
+#### **When you get such warning?**
+
 If you are a developer, who have used ssh or still using it on daily basis, might have seen following response when you tried to connect to remote machine mostly very *first time*.
 
 ```
