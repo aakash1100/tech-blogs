@@ -1,4 +1,4 @@
-## Modify Admin account name on Mac
+## Modify admin account name on Mac
 
 
 #### Implications
